@@ -1,0 +1,23 @@
+{
+  "name": "relay-server",
+  "version": "1.0.0",
+  "main": "relay_server.js",
+  "scripts": {
+    "start": "node relay_server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odwa2003/relay-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odwa2003/relay-server/issues"
+  },
+  "homepage": "https://github.com/Odwa2003/relay-server#readme",
+  "description": ""
+}
